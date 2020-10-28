@@ -1,0 +1,15 @@
+.color div div {
+  background: #424242 !important
+}
+
+.color p, h2 {
+  color: #d5d5d5 !important
+}
+
+.MuiDialogContent-root input {
+  color: #d5d5d5 !important
+}
+
+.MuiFormLabel-root {
+  z-index: 1;
+}
