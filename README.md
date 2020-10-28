@@ -3,6 +3,9 @@
 
 
 ```
+
+Used APi https://reqres.in/
+
 # Start project
 
 #run
@@ -13,4 +16,4 @@ $ yarn start
 
 ```
 
-used APi https://reqres.in/
+> By Joandysson Gama
