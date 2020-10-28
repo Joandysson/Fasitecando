@@ -12,3 +12,5 @@ $ yarn
 $ yarn start
 
 ```
+
+used APi https://reqres.in/
